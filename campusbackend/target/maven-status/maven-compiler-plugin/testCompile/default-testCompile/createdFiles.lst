@@ -1,0 +1,4 @@
+com\sit\campusbackend\complaint\controller\DepartmentControllerTest.class
+com\sit\campusbackend\complaint\controller\AdminControllerTest.class
+com\sit\campusbackend\complaint\service\ComplaintServiceTest.class
+com\sit\campusbackend\complaint\controller\StudentControllerTest.class
